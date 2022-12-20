@@ -5,8 +5,7 @@
 ```bash
 # link
 https://esi-foods-auth-api.vercel.app/api
-# source code
-https://github.com/AhmedCoolProjects/esi-foods-auth-api
+
 ```
 
 - **register**: create new account
@@ -19,8 +18,7 @@ https://github.com/AhmedCoolProjects/esi-foods-auth-api
 ```bash
 # link
 https://esi-foods-storage-api.vercel.app/api
-# source code
-https://github.com/AhmedCoolProjects/esi-foods-storage-api
+
 ```
 
 - **upload file**: upload files to storage on firebase
@@ -30,8 +28,7 @@ https://github.com/AhmedCoolProjects/esi-foods-storage-api
 ```bash
 # link
 https://esi-foods-products.vercel.app/api
-# source code
-https://github.com/AhmedCoolProjects/esi-foods-products
+
 ```
 
 - **get all products**: get all products from database
