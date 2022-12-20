@@ -21,7 +21,7 @@ https://esi-foods-storage-api.vercel.app/api
 
 ```
 
-- **upload file**: upload files to storage on firebase
+- **upload file**: upload profile photos to storage on firebase for users who have an account
 
 ### Third Microservice
 
